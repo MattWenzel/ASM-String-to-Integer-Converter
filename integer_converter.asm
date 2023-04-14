@@ -1,11 +1,9 @@
-TITLE Project6     (proj6_wenzelma.asm)
-
-; Author: Matthew Wenzel
+ Author: Matthew Wenzel
 ; Last Modified: 6/5/22
 ;
-; Description:   Program that prompts a user to enter 10 numbers that are saved in the form of strings.
-;				 These strings are then converted to integers and saved to an array with the ReadString procedure
-;				 WriteVal procedure is then used to convert integers back to strings so that they can be printed to console. 
+; Description:  Program that prompts a user to enter 10 numbers that are saved in the form of strings.
+;		These strings are then converted to integers and saved to an array with the ReadString procedure
+;		WriteVal procedure is then used to convert integers back to strings so that they can be printed to console. 
 ;				 
 
 INCLUDE Irvine32.inc
