@@ -2,9 +2,6 @@ TITLE Project6     (proj6_wenzelma.asm)
 
 ; Author: Matthew Wenzel
 ; Last Modified: 6/5/22
-; OSU email address: wenzelma@oregonstate.edu
-; Course number/section:   CS271 Section 400
-; Project Number: 6        Due Date: 6/5/22  
 ;
 ; Description:   Program that prompts a user to enter 10 numbers that are saved in the form of strings.
 ;				 These strings are then converted to integers and saved to an array with the ReadString procedure
