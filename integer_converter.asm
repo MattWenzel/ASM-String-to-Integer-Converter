@@ -1,4 +1,4 @@
- Author: Matthew Wenzel
+; Author: Matthew Wenzel
 ; Last Modified: 6/5/22
 ;
 ; Description:  Program that prompts a user to enter 10 numbers that are saved in the form of strings.
